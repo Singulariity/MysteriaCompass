@@ -2,5 +2,6 @@ name: MysteriaCompass
 version: ${project.version}
 main: com.mysteria.compass.CompassPlugin
 api-version: 1.16
-softdepend: [ MysteriaUtils, CustomAPI ]
+depend: [ MysteriaUtils ]
+softdepend: [ CustomAPI ]
 authors: [ Singularity ]
