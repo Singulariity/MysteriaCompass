@@ -6,11 +6,7 @@ import com.mysteria.compass.commands.CompassRequestCommand;
 import com.mysteria.compass.listeners.CompassGUIClick;
 import com.mysteria.compass.listeners.CompassRightClick;
 import com.mysteria.compass.listeners.WriteMode;
-import org.bukkit.command.defaults.ReloadCommand;
 import org.bukkit.plugin.java.JavaPlugin;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public final class CompassPlugin extends JavaPlugin {
 
